@@ -1,1 +1,1 @@
-# prusa_mini_klipper_printer_config
+# prusa_mini_klipper_printer
