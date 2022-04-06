@@ -1,4 +1,4 @@
-# prusa_mini_klipper_printer_config
+# prusa_mini_SKR_klipper
 
 Hello, this is my KLIPPER printer.cfg for Prusa Mini/+ 
 
